@@ -296,7 +296,7 @@ a:visited {
 }
 
 .jstree-default .jstree-open > .jstree-ocl, .jstree-default .jstree-closed > .jstree-ocl {
-    background-image: url("/js/jstree/themes/default/32px_dark.png");
+    background-image: url("/feedxcavator2-demo/js/jstree/themes/default/32px_dark.png");
 }
 
 fieldset.settings {
