@@ -191,7 +191,7 @@ a:visited {
 }
 
 .goog-toolbar {
-    background: var(--in-content-page-background) url("/images/toolbar-bg-dark.png") repeat-x bottom left;
+    background: var(--in-content-page-background) url("images/toolbar-bg-dark.png") repeat-x bottom left;
     border-bottom: none;
 }
 
